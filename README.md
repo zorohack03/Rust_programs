@@ -1,1 +1,1 @@
-List of Rust programs to pratice the basics
+List of Rust and haskell  programs to pratice the basics
