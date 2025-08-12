@@ -1,1 +1,0 @@
-# Haskell_basic_programs
